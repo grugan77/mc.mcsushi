@@ -1,0 +1,574 @@
+2013-06-05 03:50:18 [INFO] Starting minecraft server version 1.5.2
+2013-06-05 03:50:18 [INFO] Loading properties
+2013-06-05 03:50:18 [WARNING] server.properties does not exist
+2013-06-05 03:50:18 [INFO] Generating new properties file
+2013-06-05 03:50:18 [INFO] Default game type: SURVIVAL
+2013-06-05 03:50:18 [INFO] Generating keypair
+2013-06-05 03:50:18 [INFO] Starting Minecraft server on *:25565
+2013-06-05 03:50:18 [WARNING] Failed to load operators list: java.io.FileNotFoundException: ./ops.txt (No such file or directory)
+2013-06-05 03:50:18 [WARNING] Failed to load white-list: java.io.FileNotFoundException: ./white-list.txt (No such file or directory)
+2013-06-05 03:50:18 [INFO] Preparing level "world"
+2013-06-05 03:50:19 [INFO] Preparing start region for level 0
+2013-06-05 03:50:20 [INFO] Preparing spawn area: 15%
+2013-06-05 03:50:21 [INFO] Preparing spawn area: 30%
+2013-06-05 03:50:22 [INFO] Preparing spawn area: 42%
+2013-06-05 03:50:23 [INFO] Preparing spawn area: 53%
+2013-06-05 03:50:24 [INFO] Preparing spawn area: 62%
+2013-06-05 03:50:25 [INFO] Preparing spawn area: 74%
+2013-06-05 03:50:26 [INFO] Preparing spawn area: 90%
+2013-06-05 03:50:26 [INFO] Done (8.018s)! For help, type "help" or "?"
+2013-06-05 03:50:39 [INFO] --- Showing help page 1 of 6 (/help <page>) ---
+2013-06-05 03:50:39 [INFO] /ban <name> [reason ...]
+2013-06-05 03:50:39 [INFO] /ban-ip <address|name> [reason ...]
+2013-06-05 03:50:39 [INFO] /banlist [ips|players]
+2013-06-05 03:50:39 [INFO] /clear <player> [item] [data]
+2013-06-05 03:50:39 [INFO] /debug
+2013-06-05 03:50:39 [INFO] /defaultgamemode <mode>
+2013-06-05 03:50:39 [INFO] /deop <player>
+2013-06-05 04:17:22 [INFO] aqwre[/24.183.41.28:50087] logged in with entity id 6096 at (261.5, 67.0, -208.5)
+2013-06-05 04:19:26 [INFO] aqwre lost connection: disconnect.quitting
+2013-06-05 04:19:37 [INFO] aqwre[/24.183.41.28:50126] logged in with entity id 7798 at (252.27637444248057, 73.0, -193.25594594366146)
+2013-06-05 04:20:03 [INFO] Disconnecting /24.183.41.28:50124: Took too long to log in
+2013-06-05 04:20:06 [INFO] Disconnecting /24.183.41.28:50125: Took too long to log in
+2013-06-05 04:31:40 [INFO] aqwre was blown up by Creeper
+2013-06-05 04:32:29 [INFO] aqwre lost connection: disconnect.quitting
+2013-06-05 04:45:13 [INFO] aqwre[/24.183.41.28:49245] logged in with entity id 13302 at (215.6420547264749, 66.0, -213.9777452794578)
+2013-06-05 04:46:00 [INFO] aqwre drowned
+2013-06-05 06:09:24 [INFO] aqwre drowned
+2013-06-05 06:09:27 [INFO] aqwre lost connection: disconnect.quitting
+2013-06-05 06:18:06 [INFO] --- Showing help page 1 of 6 (/help <page>) ---
+2013-06-05 06:18:06 [INFO] /ban <name> [reason ...]
+2013-06-05 06:18:06 [INFO] /ban-ip <address|name> [reason ...]
+2013-06-05 06:18:06 [INFO] /banlist [ips|players]
+2013-06-05 06:18:06 [INFO] /clear <player> [item] [data]
+2013-06-05 06:18:06 [INFO] /debug
+2013-06-05 06:18:06 [INFO] /defaultgamemode <mode>
+2013-06-05 06:18:06 [INFO] /deop <player>
+2013-06-05 06:18:16 [INFO] --- Showing help page 2 of 6 (/help <page>) ---
+2013-06-05 06:18:16 [INFO] /difficulty <new difficulty>
+2013-06-05 06:18:16 [INFO] /effect <player> <effect> [seconds] [amplifier]
+2013-06-05 06:18:16 [INFO] /enchant <player> <enchantment ID> [level]
+2013-06-05 06:18:16 [INFO] /gamemode <mode> [player]
+2013-06-05 06:18:16 [INFO] /gamerule <rule name> <value> OR /gamerule <rule name>
+2013-06-05 06:18:16 [INFO] /give <player> <item> [amount] [data]
+2013-06-05 06:18:16 [INFO] /help [page|command name]
+2013-06-05 06:18:30 [INFO] --- Showing help page 3 of 6 (/help <page>) ---
+2013-06-05 06:18:30 [INFO] /kick <player> [reason ...]
+2013-06-05 06:18:30 [INFO] /kill
+2013-06-05 06:18:30 [INFO] /list
+2013-06-05 06:18:30 [INFO] /me <action ...>
+2013-06-05 06:18:30 [INFO] /op <player>
+2013-06-05 06:18:30 [INFO] /pardon <name>
+2013-06-05 06:18:30 [INFO] /pardon-ip <address>
+2013-06-05 06:18:58 [INFO] --- Showing help page 4 of 6 (/help <page>) ---
+2013-06-05 06:18:58 [INFO] /save-all
+2013-06-05 06:18:58 [INFO] /save-off
+2013-06-05 06:18:58 [INFO] /save-on
+2013-06-05 06:18:58 [INFO] /say <message ...>
+2013-06-05 06:18:58 [INFO] /scoreboard
+2013-06-05 06:18:58 [INFO] /seed
+2013-06-05 06:18:58 [INFO] /spawnpoint OR /spawnpoint <player> OR /spawnpoint <player> <x> <y> <z>
+2013-06-05 06:19:45 [INFO] --- Showing help page 5 of 6 (/help <page>) ---
+2013-06-05 06:19:45 [INFO] /stop
+2013-06-05 06:19:45 [INFO] /tell
+2013-06-05 06:19:45 [INFO] /testfor
+2013-06-05 06:19:45 [INFO] /time <set|add> <value>
+2013-06-05 06:19:45 [INFO] /toggledownfall
+2013-06-05 06:19:45 [INFO] /tp [target player] <destination player> OR /tp [target player] <x> <y> <z>
+2013-06-05 06:19:45 [INFO] /weather
+2013-06-05 06:19:50 [INFO] --- Showing help page 6 of 6 (/help <page>) ---
+2013-06-05 06:19:50 [INFO] /whitelist <on|off|list|add|remove|reload>
+2013-06-05 06:19:50 [INFO] /xp <amount> [player] OR /xp <amount>L [player]
+2013-06-05 06:20:11 [INFO] --- Showing help page 1 of 6 (/help <page>) ---
+2013-06-05 06:20:11 [INFO] /ban <name> [reason ...]
+2013-06-05 06:20:11 [INFO] /ban-ip <address|name> [reason ...]
+2013-06-05 06:20:11 [INFO] /banlist [ips|players]
+2013-06-05 06:20:11 [INFO] /clear <player> [item] [data]
+2013-06-05 06:20:11 [INFO] /debug
+2013-06-05 06:20:11 [INFO] /defaultgamemode <mode>
+2013-06-05 06:20:11 [INFO] /deop <player>
+2013-06-05 06:21:18 [INFO] Starting minecraft server version 1.5.2
+2013-06-05 06:21:18 [INFO] Loading properties
+2013-06-05 06:21:18 [INFO] Default game type: CREATIVE
+2013-06-05 06:21:18 [INFO] Generating keypair
+2013-06-05 06:21:18 [INFO] Starting Minecraft server on *:25565
+2013-06-05 06:21:19 [INFO] Preparing level "McSushiworld"
+2013-06-05 06:21:19 [INFO] Preparing start region for level 0
+2013-06-05 06:21:20 [INFO] Preparing spawn area: 13%
+2013-06-05 06:21:21 [INFO] Preparing spawn area: 27%
+2013-06-05 06:21:22 [INFO] Preparing spawn area: 37%
+2013-06-05 06:21:23 [INFO] Preparing spawn area: 46%
+2013-06-05 06:21:24 [INFO] Preparing spawn area: 55%
+2013-06-05 06:21:25 [INFO] Preparing spawn area: 64%
+2013-06-05 06:21:26 [INFO] Preparing spawn area: 75%
+2013-06-05 06:21:27 [INFO] Preparing spawn area: 86%
+2013-06-05 06:21:28 [INFO] Preparing spawn area: 98%
+2013-06-05 06:21:28 [INFO] Done (9.479s)! For help, type "help" or "?"
+2013-06-05 06:22:18 [INFO] --- Showing help page 1 of 6 (/help <page>) ---
+2013-06-05 06:22:18 [INFO] /ban <name> [reason ...]
+2013-06-05 06:22:18 [INFO] /ban-ip <address|name> [reason ...]
+2013-06-05 06:22:18 [INFO] /banlist [ips|players]
+2013-06-05 06:22:18 [INFO] /clear <player> [item] [data]
+2013-06-05 06:22:18 [INFO] /debug
+2013-06-05 06:22:18 [INFO] /defaultgamemode <mode>
+2013-06-05 06:22:18 [INFO] /deop <player>
+2013-06-05 06:22:23 [INFO] --- Showing help page 2 of 6 (/help <page>) ---
+2013-06-05 06:22:23 [INFO] /difficulty <new difficulty>
+2013-06-05 06:22:23 [INFO] /effect <player> <effect> [seconds] [amplifier]
+2013-06-05 06:22:23 [INFO] /enchant <player> <enchantment ID> [level]
+2013-06-05 06:22:23 [INFO] /gamemode <mode> [player]
+2013-06-05 06:22:23 [INFO] /gamerule <rule name> <value> OR /gamerule <rule name>
+2013-06-05 06:22:23 [INFO] /give <player> <item> [amount] [data]
+2013-06-05 06:22:23 [INFO] /help [page|command name]
+2013-06-05 06:22:31 [INFO] --- Showing help page 3 of 6 (/help <page>) ---
+2013-06-05 06:22:31 [INFO] /kick <player> [reason ...]
+2013-06-05 06:22:31 [INFO] /kill
+2013-06-05 06:22:31 [INFO] /list
+2013-06-05 06:22:31 [INFO] /me <action ...>
+2013-06-05 06:22:31 [INFO] /op <player>
+2013-06-05 06:22:31 [INFO] /pardon <name>
+2013-06-05 06:22:31 [INFO] /pardon-ip <address>
+2013-06-05 06:23:09 [INFO] Unknown command. Try /help for a list of commands.
+2013-06-05 06:24:36 [INFO] aqwre[/24.183.41.28:49995] logged in with entity id 6007 at (133.5, 58.0, 296.5)
+2013-06-05 06:24:38 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-06-05 06:25:36 [INFO] [aqwre: Set own game mode to Survival Mode]
+2013-06-05 06:26:10 [INFO] [aqwre: Set own game mode to Creative Mode]
+2013-06-05 06:36:01 [INFO] aqwre lost connection: disconnect.genericReason
+2013-06-05 15:21:49 [INFO] aqwre[/24.183.41.28:50291] logged in with entity id 12538 at (123.26020618996016, 75.16610926093821, 302.7346619134292)
+2013-06-05 15:26:27 [INFO] [aqwre: Set aqwre's spawn point to (123, 80, 302)]
+2013-06-05 15:27:40 [INFO] aqwre lost connection: disconnect.quitting
+2013-06-06 05:21:45 [INFO] Stopping server
+2013-06-06 05:21:45 [INFO] Closing listening thread
+2013-06-06 05:21:45 [INFO] Saving players
+2013-06-06 05:21:45 [INFO] Saving worlds
+2013-06-06 05:21:45 [INFO] Saving chunks for level 'McSushiworld'/Overworld
+2013-06-06 05:21:45 [INFO] Saving chunks for level 'McSushiworld'/Nether
+2013-06-06 05:21:45 [INFO] Saving chunks for level 'McSushiworld'/The End
+2013-06-06 05:22:05 [INFO] Starting minecraft server version 1.5.2
+2013-06-06 05:22:05 [INFO] Loading properties
+2013-06-06 05:22:05 [INFO] Default game type: CREATIVE
+2013-06-06 05:22:05 [INFO] Generating keypair
+2013-06-06 05:22:06 [INFO] Starting Minecraft server on *:25565
+2013-06-06 05:22:06 [INFO] Preparing level "McSushiworld"
+2013-06-06 05:22:06 [INFO] Preparing start region for level 0
+2013-06-06 05:22:07 [INFO] Done (0.825s)! For help, type "help" or "?"
+2013-06-06 05:31:09 [INFO] --- Showing help page 1 of 6 (/help <page>) ---
+2013-06-06 05:31:09 [INFO] /ban <name> [reason ...]
+2013-06-06 05:31:09 [INFO] /ban-ip <address|name> [reason ...]
+2013-06-06 05:31:09 [INFO] /banlist [ips|players]
+2013-06-06 05:31:09 [INFO] /clear <player> [item] [data]
+2013-06-06 05:31:09 [INFO] /debug
+2013-06-06 05:31:09 [INFO] /defaultgamemode <mode>
+2013-06-06 05:31:09 [INFO] /deop <player>
+2013-06-06 05:31:23 [INFO] --- Showing help page 2 of 6 (/help <page>) ---
+2013-06-06 05:31:23 [INFO] /difficulty <new difficulty>
+2013-06-06 05:31:23 [INFO] /effect <player> <effect> [seconds] [amplifier]
+2013-06-06 05:31:23 [INFO] /enchant <player> <enchantment ID> [level]
+2013-06-06 05:31:23 [INFO] /gamemode <mode> [player]
+2013-06-06 05:31:23 [INFO] /gamerule <rule name> <value> OR /gamerule <rule name>
+2013-06-06 05:31:23 [INFO] /give <player> <item> [amount] [data]
+2013-06-06 05:31:23 [INFO] /help [page|command name]
+2013-06-06 05:31:38 [INFO] --- Showing help page 3 of 6 (/help <page>) ---
+2013-06-06 05:31:38 [INFO] /kick <player> [reason ...]
+2013-06-06 05:31:38 [INFO] /kill
+2013-06-06 05:31:38 [INFO] /list
+2013-06-06 05:31:38 [INFO] /me <action ...>
+2013-06-06 05:31:38 [INFO] /op <player>
+2013-06-06 05:31:38 [INFO] /pardon <name>
+2013-06-06 05:31:38 [INFO] /pardon-ip <address>
+2013-06-06 05:31:43 [INFO] There are 0/5 players online:
+2013-06-06 05:31:43 [INFO] 
+2013-06-06 05:31:57 [INFO] Usage: /me <action ...>
+2013-06-06 05:32:04 [INFO] --- Showing help page 4 of 6 (/help <page>) ---
+2013-06-06 05:32:04 [INFO] /save-all
+2013-06-06 05:32:04 [INFO] /save-off
+2013-06-06 05:32:04 [INFO] /save-on
+2013-06-06 05:32:04 [INFO] /say <message ...>
+2013-06-06 05:32:04 [INFO] /scoreboard
+2013-06-06 05:32:04 [INFO] /seed
+2013-06-06 05:32:04 [INFO] /spawnpoint OR /spawnpoint <player> OR /spawnpoint <player> <x> <y> <z>
+2013-06-06 05:32:17 [INFO] Usage: /scoreboard <objectives|players|teams>
+2013-06-06 05:32:31 [INFO] --- Showing help page 4 of 6 (/help <page>) ---
+2013-06-06 05:32:31 [INFO] /save-all
+2013-06-06 05:32:31 [INFO] /save-off
+2013-06-06 05:32:31 [INFO] /save-on
+2013-06-06 05:32:31 [INFO] /say <message ...>
+2013-06-06 05:32:31 [INFO] /scoreboard
+2013-06-06 05:32:31 [INFO] /seed
+2013-06-06 05:32:31 [INFO] /spawnpoint OR /spawnpoint <player> OR /spawnpoint <player> <x> <y> <z>
+2013-06-06 05:32:37 [INFO] --- Showing help page 5 of 6 (/help <page>) ---
+2013-06-06 05:32:37 [INFO] /stop
+2013-06-06 05:32:37 [INFO] /tell
+2013-06-06 05:32:37 [INFO] /testfor
+2013-06-06 05:32:37 [INFO] /time <set|add> <value>
+2013-06-06 05:32:37 [INFO] /toggledownfall
+2013-06-06 05:32:37 [INFO] /tp [target player] <destination player> OR /tp [target player] <x> <y> <z>
+2013-06-06 05:32:37 [INFO] /weather
+2013-06-06 05:32:42 [INFO] Usage: /weather <clear/rain/thunder> [duration in seconds]
+2013-06-06 06:08:02 [INFO] There are 0/5 players online:
+2013-06-06 06:08:02 [INFO] 
+2013-06-06 06:08:04 [INFO] Stopping server
+2013-06-06 06:08:04 [INFO] Saving players
+2013-06-06 06:08:04 [INFO] Closing listening thread
+2013-06-06 06:08:04 [INFO] Saving worlds
+2013-06-05 21:58:37 [INFO] Starting minecraft server version 1.5.2
+2013-06-05 21:58:37 [INFO] Loading properties
+2013-06-05 21:58:37 [INFO] Default game type: CREATIVE
+2013-06-05 21:58:37 [INFO] Generating keypair
+2013-06-05 21:58:37 [INFO] Starting Minecraft server on *:25565
+2013-06-05 21:58:37 [INFO] Preparing level "McSushiworld"
+2013-06-05 21:58:37 [INFO] Preparing start region for level 0
+2013-06-05 21:58:38 [INFO] Preparing spawn area: 90%
+2013-06-05 21:58:38 [INFO] Done (1.260s)! For help, type "help" or "?"
+2013-06-05 21:59:09 [INFO] There are 0/5 players online:
+2013-06-05 21:59:09 [INFO] 
+2013-06-05 22:14:09 [INFO] Stopping server
+2013-06-05 22:14:09 [INFO] Closing listening thread
+2013-06-05 22:14:09 [INFO] Saving players
+2013-06-05 22:14:09 [INFO] Saving worlds
+2013-06-05 22:14:09 [INFO] Saving chunks for level 'McSushiworld'/Overworld
+2013-06-05 22:39:48 [INFO] Starting minecraft server version 1.5.2
+2013-06-05 22:39:48 [INFO] Loading properties
+2013-06-05 22:39:48 [INFO] Default game type: CREATIVE
+2013-06-05 22:39:48 [INFO] Generating keypair
+2013-06-05 22:39:48 [INFO] Starting Minecraft server on *:25565
+2013-06-05 22:39:49 [INFO] Preparing level "McSushiworld"
+2013-06-05 22:39:49 [INFO] Preparing start region for level 0
+2013-06-05 22:39:49 [INFO] Done (0.974s)! For help, type "help" or "?"
+2013-06-05 22:39:52 [INFO] There are 0/5 players online:
+2013-06-05 22:39:52 [INFO] 
+2013-06-05 23:28:50 [INFO] Stopping server
+2013-06-06 06:52:34 [INFO] Starting minecraft server version 1.5.2
+2013-06-06 06:52:34 [INFO] Loading properties
+2013-06-06 06:52:34 [INFO] Default game type: CREATIVE
+2013-06-06 06:52:34 [INFO] Generating keypair
+2013-06-06 06:52:35 [INFO] Starting Minecraft server on *:25565
+2013-06-06 06:52:35 [INFO] Preparing level "McSushiworld"
+2013-06-06 06:52:35 [INFO] Preparing start region for level 0
+2013-06-06 06:52:36 [INFO] Done (1.028s)! For help, type "help" or "?"
+2013-06-06 07:07:36 [INFO] Stopping server
+2013-06-06 07:07:36 [INFO] Closing listening thread
+2013-06-06 07:07:36 [INFO] Saving players
+2013-06-06 07:07:36 [INFO] Saving worlds
+2013-06-06 07:07:36 [INFO] Saving chunks for level 'McSushiworld'/Overworld
+2013-06-06 10:54:13 [INFO] Starting minecraft server version 1.5.2
+2013-06-06 10:54:13 [INFO] Loading properties
+2013-06-06 10:54:13 [INFO] Default game type: CREATIVE
+2013-06-06 10:54:13 [INFO] Generating keypair
+2013-06-06 10:54:14 [INFO] Starting Minecraft server on *:25565
+2013-06-06 10:54:14 [INFO] Preparing level "McSushiworld"
+2013-06-06 10:54:14 [INFO] Preparing start region for level 0
+2013-06-06 10:54:15 [INFO] Done (1.018s)! For help, type "help" or "?"
+2013-06-06 10:54:21 [INFO] There are 0/5 players online:
+2013-06-06 10:54:21 [INFO] 
+2013-06-06 11:00:25 [INFO] There are 0/5 players online:
+2013-06-06 11:00:25 [INFO] 
+2013-06-06 11:07:23 [INFO] There are 0/5 players online:
+2013-06-06 11:07:23 [INFO] 
+2013-06-06 11:22:25 [INFO] There are 0/5 players online:
+2013-06-06 11:22:25 [INFO] 
+2013-06-06 12:41:23 [INFO] Disconnecting ParkDiamond [/99.8.127.121:64918]: You are not white-listed on this server!
+2013-06-06 12:41:41 [INFO] Disconnecting ParkDiamond [/99.8.127.121:64924]: You are not white-listed on this server!
+2013-06-06 12:42:21 [INFO] Disconnecting ParkDiamond [/99.8.127.121:64930]: You are not white-listed on this server!
+2013-06-06 12:46:01 [INFO] Disconnecting ParkDiamond [/99.8.127.121:61491]: You are not white-listed on this server!
+2013-06-06 12:47:37 [INFO] Disconnecting Morg726 [/99.8.127.121:61544]: You are not white-listed on this server!
+2013-06-06 12:47:55 [INFO] Disconnecting ParkDiamond [/99.8.127.121:64936]: You are not white-listed on this server!
+2013-06-06 12:49:02 [INFO] Disconnecting ParkDiamond [/99.8.127.121:64942]: You are not white-listed on this server!
+2013-06-06 12:54:40 [INFO] Stopping server
+2013-06-06 12:54:44 [INFO] Starting minecraft server version 1.5.2
+2013-06-06 12:54:44 [INFO] Loading properties
+2013-06-06 12:54:44 [INFO] Default game type: CREATIVE
+2013-06-06 12:54:44 [INFO] Generating keypair
+2013-06-06 12:54:44 [INFO] Starting Minecraft server on *:25565
+2013-06-06 12:54:44 [INFO] Preparing level "McSushiworld"
+2013-06-06 12:54:45 [INFO] Preparing start region for level 0
+2013-06-06 12:54:45 [INFO] Done (0.979s)! For help, type "help" or "?"
+2013-06-06 13:03:24 [INFO] Morg726[/99.8.127.121:61605] logged in with entity id 302 at (124.5, 63.0, 305.5)
+2013-06-06 13:04:23 [INFO] Morg726 lost connection: disconnect.quitting
+2013-06-06 13:07:02 [INFO] ParkDiamond[/99.8.127.121:65121] logged in with entity id 1037 at (129.5, 59.0, 301.5)
+2013-06-06 13:07:17 [INFO] xxMarioCraftxx[/99.8.127.121:61658] logged in with entity id 1478 at (123.5, 95.0, 291.5)
+2013-06-06 13:12:27 [INFO] There are 2/5 players online:
+2013-06-06 13:12:27 [INFO] ParkDiamond, xxMarioCraftxx
+2013-06-06 13:12:50 [INFO] Stopping server
+2013-06-06 13:12:54 [INFO] Starting minecraft server version 1.5.2
+2013-06-06 13:12:54 [INFO] Loading properties
+2013-06-06 13:12:54 [INFO] Default game type: CREATIVE
+2013-06-06 13:12:54 [INFO] Generating keypair
+2013-06-06 13:12:55 [INFO] Starting Minecraft server on *:25565
+2013-06-06 13:12:55 [INFO] Preparing level "McSushiworld"
+2013-06-06 13:12:55 [INFO] Preparing start region for level 0
+2013-06-06 13:12:56 [INFO] Done (1.013s)! For help, type "help" or "?"
+2013-06-06 13:16:37 [INFO] ParkDiamond[/99.8.127.121:65133] logged in with entity id 339 at (99.80793370910104, 92.0, 292.9660829324436)
+2013-06-06 13:25:07 [INFO] xxMarioCraftxx[/99.8.127.121:61689] logged in with entity id 6172 at (101.65391859478596, 91.0, 290.8601574444062)
+2013-06-06 13:25:55 [INFO] --- Showing help page 1 of 6 (/help <page>) ---
+2013-06-06 13:25:55 [INFO] /ban <name> [reason ...]
+2013-06-06 13:25:55 [INFO] /ban-ip <address|name> [reason ...]
+2013-06-06 13:25:55 [INFO] /banlist [ips|players]
+2013-06-06 13:25:55 [INFO] /clear <player> [item] [data]
+2013-06-06 13:25:55 [INFO] /debug
+2013-06-06 13:25:55 [INFO] /defaultgamemode <mode>
+2013-06-06 13:25:55 [INFO] /deop <player>
+2013-06-06 13:26:04 [INFO] --- Showing help page 3 of 6 (/help <page>) ---
+2013-06-06 13:26:04 [INFO] /kick <player> [reason ...]
+2013-06-06 13:26:04 [INFO] /kill
+2013-06-06 13:26:04 [INFO] /list
+2013-06-06 13:26:04 [INFO] /me <action ...>
+2013-06-06 13:26:04 [INFO] /op <player>
+2013-06-06 13:26:04 [INFO] /pardon <name>
+2013-06-06 13:26:04 [INFO] /pardon-ip <address>
+2013-06-06 13:26:11 [INFO] --- Showing help page 5 of 6 (/help <page>) ---
+2013-06-06 13:26:11 [INFO] /stop
+2013-06-06 13:26:11 [INFO] /tell
+2013-06-06 13:26:11 [INFO] /testfor
+2013-06-06 13:26:11 [INFO] /time <set|add> <value>
+2013-06-06 13:26:11 [INFO] /toggledownfall
+2013-06-06 13:26:11 [INFO] /tp [target player] <destination player> OR /tp [target player] <x> <y> <z>
+2013-06-06 13:26:11 [INFO] /weather
+2013-06-06 13:27:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-06-06 13:59:30 [INFO] xxMarioCraftxx lost connection: disconnect.quitting
+2013-06-06 13:59:43 [INFO] ParkDiamond lost connection: disconnect.quitting
+2013-06-06 16:33:19 [INFO] Mankai_Sewatery[/184.60.26.185:56705] logged in with entity id 13799 at (128.5, 60.0, 299.5)
+2013-06-06 16:33:37 [INFO] <Mankai_Sewatery> t
+2013-06-06 16:33:39 [INFO] aqwre[/24.183.41.28:50424] logged in with entity id 14374 at (123.69999998807907, 80.0, 301.930255105978)
+2013-06-06 16:35:11 [INFO] [aqwre: De-opped mankai]
+2013-06-06 16:35:33 [INFO] <Mankai_Sewatery> mankai_Sewatery
+2013-06-06 16:35:49 [INFO] aqwre fell out of the world
+2013-06-06 16:36:44 [INFO] [aqwre: Opped mankai_sewatry]
+2013-06-06 16:36:57 [INFO] <Mankai_Sewatery> aqwre
+2013-06-06 16:36:58 [INFO] [aqwre: Opped Mankai_Sewatery]
+2013-06-06 16:39:04 [INFO] aqwre fell out of the world
+2013-06-06 16:43:13 [INFO] [Mankai_Sewatery: Toggled downfall]
+2013-06-06 16:43:23 [INFO] [Mankai_Sewatery: Toggled downfall]
+2013-06-06 16:43:25 [INFO] [Mankai_Sewatery: Toggled downfall]
+2013-06-06 16:45:04 [INFO] aqwre lost connection: disconnect.quitting
+2013-06-06 16:49:17 [INFO] Mankai_Sewatery lost connection: disconnect.quitting
+2013-06-06 16:54:41 [INFO] Mankai_Sewatery[/184.60.26.185:57045] logged in with entity id 30202 at (161.07601307510913, 121.48302717491677, 288.900580098743)
+2013-06-06 16:55:15 [INFO] [Mankai_Sewatery: Set Mankai_Sewatery's spawn point to (122, 114, 301)]
+2013-06-06 16:55:21 [INFO] Mankai_Sewatery lost connection: disconnect.quitting
+2013-06-06 18:31:27 [INFO] Unknown command. Try /help for a list of commands.
+2013-06-06 18:31:34 [INFO] --- Showing help page 1 of 6 (/help <page>) ---
+2013-06-06 18:31:34 [INFO] /ban <name> [reason ...]
+2013-06-06 18:31:34 [INFO] /ban-ip <address|name> [reason ...]
+2013-06-06 18:31:34 [INFO] /banlist [ips|players]
+2013-06-06 18:31:34 [INFO] /clear <player> [item] [data]
+2013-06-06 18:31:34 [INFO] /debug
+2013-06-06 18:31:34 [INFO] /defaultgamemode <mode>
+2013-06-06 18:31:34 [INFO] /deop <player>
+2013-06-06 18:31:37 [INFO] There are 0/5 players online:
+2013-06-06 18:31:37 [INFO] 
+2013-06-06 18:41:47 [INFO] Mankai_Sewatery[/184.60.26.185:58183] logged in with entity id 31153 at (116.92792029910152, 96.0, 293.28367867320776)
+2013-06-06 18:43:19 [INFO] <Mankai_Sewatery> t
+2013-06-06 18:45:09 [INFO] Mankai_Sewatery lost connection: disconnect.quitting
+2013-06-06 19:32:36 [INFO] There are 0/5 players online:
+2013-06-06 19:32:36 [INFO] 
+2013-06-06 20:06:52 [INFO] Morg726[/99.8.127.121:52868] logged in with entity id 33535 at (124.47555443458259, 116.47990813155371, 300.43838203488997)
+2013-06-06 20:12:03 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-06-06 20:28:43 [INFO] Morg726[/99.8.127.121:52991] logged in with entity id 51448 at (13.715099337454836, 84.0, 22.833799142098368)
+2013-06-06 20:56:40 [INFO] Morg726 lost connection: disconnect.quitting
+2013-06-06 22:39:51 [INFO] There are 0/5 players online:
+2013-06-06 22:39:51 [INFO] 
+2013-06-06 22:55:36 [INFO] Unknown command. Try /help for a list of commands.
+2013-06-06 22:55:39 [INFO] Unknown command. Try /help for a list of commands.
+2013-06-06 22:56:28 [INFO] Stopping server
+2013-06-06 22:56:28 [INFO] Saving players
+2013-06-06 22:56:28 [INFO] Saving worlds
+2013-06-07 07:06:32 [INFO] Starting minecraft server version 1.5.2
+2013-06-07 07:06:32 [INFO] Loading properties
+2013-06-07 07:06:32 [INFO] Default game type: CREATIVE
+2013-06-07 07:06:32 [INFO] Generating keypair
+2013-06-07 07:06:32 [INFO] Starting Minecraft server on *:25565
+2013-06-07 07:06:32 [INFO] Preparing level "McSushiworld"
+2013-06-07 07:06:32 [INFO] Preparing start region for level 0
+2013-06-07 07:06:33 [INFO] Done (1.058s)! For help, type "help" or "?"
+2013-06-07 07:06:42 [INFO] Stopping server
+2013-06-07 07:07:46 [INFO] Starting minecraft server version 1.5.2
+2013-06-07 07:07:46 [INFO] Loading properties
+2013-06-07 07:07:46 [INFO] Default game type: CREATIVE
+2013-06-07 07:07:46 [INFO] Generating keypair
+2013-06-07 07:07:46 [INFO] Starting Minecraft server on *:25565
+2013-06-07 07:07:46 [INFO] Preparing level "McSushiworld"
+2013-06-07 07:07:46 [INFO] Preparing start region for level 0
+2013-06-07 07:07:47 [INFO] Done (1.038s)! For help, type "help" or "?"
+2013-06-07 07:08:31 [INFO] There are 0/5 players online:
+2013-06-07 07:08:31 [INFO] 
+2013-06-07 13:29:58 [INFO] There are 0/5 players online:
+2013-06-07 13:29:58 [INFO] 
+2013-06-07 20:54:16 [INFO] There are 0/5 players online:
+2013-06-07 20:54:16 [INFO] 
+2013-06-08 06:56:27 [INFO] There are 0/5 players online:
+2013-06-08 06:56:27 [INFO] 
+2013-06-08 08:19:18 [INFO] Changing to rainy weather
+2013-06-08 08:19:30 [INFO] Usage: /weather
+2013-06-08 08:19:34 [INFO] --- Showing help page 3 of 6 (/help <page>) ---
+2013-06-08 08:19:34 [INFO] /kick <player> [reason ...]
+2013-06-08 08:19:34 [INFO] /kill
+2013-06-08 08:19:34 [INFO] /list
+2013-06-08 08:19:34 [INFO] /me <action ...>
+2013-06-08 08:19:34 [INFO] /op <player>
+2013-06-08 08:19:34 [INFO] /pardon <name>
+2013-06-08 08:19:34 [INFO] /pardon-ip <address>
+2013-06-08 08:19:40 [INFO] --- Showing help page 5 of 6 (/help <page>) ---
+2013-06-08 08:19:40 [INFO] /stop
+2013-06-08 08:19:40 [INFO] /tell
+2013-06-08 08:19:40 [INFO] /testfor
+2013-06-08 08:19:40 [INFO] /time <set|add> <value>
+2013-06-08 08:19:40 [INFO] /toggledownfall
+2013-06-08 08:19:40 [INFO] /tp [target player] <destination player> OR /tp [target player] <x> <y> <z>
+2013-06-08 08:19:40 [INFO] /weather
+2013-06-08 08:32:43 [INFO] There are 0/5 players online:
+2013-06-08 08:32:43 [INFO] 
+2013-06-08 08:32:59 [INFO] Unknown command. Try /help for a list of commands.
+2013-06-08 08:34:01 [INFO] Usage: /whitelist <on|off|list|add|remove|reload>
+2013-06-08 08:34:22 [INFO] Added Morg726 to the whitelist
+2013-06-08 08:34:41 [INFO] Added xxMarioCraftxx to the whitelist
+2013-06-08 08:34:54 [INFO] Added ParkDiamond to the whitelist
+2013-06-08 08:43:41 [INFO] Added aqwre to the whitelist
+2013-06-09 19:16:12 [INFO] aqwre[/24.183.41.28:49748] logged in with entity id 365 at (150.30000001192093, 67.0, 260.30000001192093)
+2013-06-09 19:20:45 [INFO] <aqwre> hi
+2013-06-09 19:26:01 [INFO] aqwre lost connection: disconnect.quitting
+2013-06-09 19:48:57 [INFO] There are 0/5 players online:
+2013-06-09 19:48:57 [INFO] 
+2013-06-09 23:36:42 [INFO] Stopping server
+2013-06-10 06:00:07 [INFO] Starting minecraft server version 1.5.2
+2013-06-10 06:00:07 [INFO] Loading properties
+2013-06-10 06:00:07 [INFO] Default game type: CREATIVE
+2013-06-10 06:00:07 [INFO] Generating keypair
+2013-06-10 06:00:07 [INFO] Starting Minecraft server on *:25565
+2013-06-10 06:00:07 [INFO] Preparing level "McSushiworld"
+2013-06-10 06:00:07 [INFO] Preparing start region for level 0
+2013-06-10 06:00:08 [INFO] Done (1.070s)! For help, type "help" or "?"
+2013-06-10 17:11:06 [INFO] Mankai_Sewatery[/184.60.26.185:63764] logged in with entity id 356 at (150.22226077021745, 73.88702544051675, 303.1631302055795)
+2013-06-10 17:11:32 [INFO] Mankai_Sewatery lost connection: disconnect.genericReason
+2013-06-10 21:35:45 [INFO] There are 0/5 players online:
+2013-06-10 21:35:45 [INFO] 
+2013-06-10 23:08:53 [INFO] There are 0/5 players online:
+2013-06-10 23:08:53 [INFO] 
+2013-06-11 07:02:56 [INFO] There are 0/5 players online:
+2013-06-11 07:02:56 [INFO] 
+2013-06-11 12:22:52 [INFO] There are 0/5 players online:
+2013-06-11 12:22:52 [INFO] 
+2013-06-11 19:56:23 [INFO] There are 0/5 players online:
+2013-06-11 19:56:23 [INFO] 
+2013-06-12 07:22:26 [INFO] Stopping server
+2013-06-12 07:22:26 [INFO] Closing listening thread
+2013-06-12 07:22:26 [INFO] Saving players
+2013-06-12 07:22:26 [INFO] Saving worlds
+2013-06-12 07:22:26 [INFO] Saving chunks for level 'McSushiworld'/Overworld
+2013-06-12 07:22:26 [INFO] Saving chunks for level 'McSushiworld'/Nether
+2013-06-12 07:22:26 [INFO] Saving chunks for level 'McSushiworld'/The End
+2013-06-12 07:30:43 [INFO] Starting minecraft server version 1.5.2
+2013-06-12 07:30:43 [INFO] Loading properties
+2013-06-12 07:30:43 [INFO] Default game type: CREATIVE
+2013-06-12 07:30:43 [INFO] Generating keypair
+2013-06-12 07:30:43 [INFO] Starting Minecraft server on *:25565
+2013-06-12 07:30:43 [INFO] Preparing level "McSushiworld"
+2013-06-12 07:30:43 [INFO] Preparing start region for level 0
+2013-06-12 07:30:44 [INFO] Done (1.068s)! For help, type "help" or "?"
+2013-06-12 07:30:56 [INFO] There are 0/5 players online:
+2013-06-12 07:30:56 [INFO] 
+2013-06-12 07:31:04 [INFO] --- Showing help page 1 of 6 (/help <page>) ---
+2013-06-12 07:31:04 [INFO] /ban <name> [reason ...]
+2013-06-12 07:31:04 [INFO] /ban-ip <address|name> [reason ...]
+2013-06-12 07:31:04 [INFO] /banlist [ips|players]
+2013-06-12 07:31:04 [INFO] /clear <player> [item] [data]
+2013-06-12 07:31:04 [INFO] /debug
+2013-06-12 07:31:04 [INFO] /defaultgamemode <mode>
+2013-06-12 07:31:04 [INFO] /deop <player>
+2013-06-12 10:23:17 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-06-12 11:33:22 [INFO] There are 0/5 players online:
+2013-06-12 11:33:22 [INFO] 
+2013-06-12 11:34:29 [INFO] Stopping server
+2013-06-12 11:34:36 [INFO] Starting minecraft server version 1.5.2
+2013-06-12 11:34:36 [INFO] Loading properties
+2013-06-12 11:34:36 [INFO] Default game type: CREATIVE
+2013-06-12 11:34:36 [INFO] Generating keypair
+2013-06-12 11:34:37 [INFO] Starting Minecraft server on *:25565
+2013-06-12 11:34:37 [INFO] Preparing level "McSushiworld"
+2013-06-12 11:34:37 [INFO] Preparing start region for level 0
+2013-06-12 11:34:38 [INFO] Done (1.076s)! For help, type "help" or "?"
+2013-06-12 11:44:21 [INFO] There are 0/5 players online:
+2013-06-12 11:44:21 [INFO] 
+2013-06-12 11:44:23 [INFO] Stopping server
+2013-06-12 11:44:23 [INFO] Closing listening thread
+2013-06-12 11:44:23 [INFO] Saving players
+2013-06-12 11:44:23 [INFO] Saving worlds
+2013-06-12 11:44:23 [INFO] Saving chunks for level 'McSushiworld'/Overworld
+2013-06-12 11:50:16 [INFO] Starting minecraft server version 1.5.2
+2013-06-12 11:50:16 [INFO] Loading properties
+2013-06-12 11:50:16 [INFO] Default game type: CREATIVE
+2013-06-12 11:50:16 [INFO] Generating keypair
+2013-06-12 11:50:17 [INFO] Starting Minecraft server on *:25565
+2013-06-12 11:50:17 [INFO] Preparing level "McSushiworld"
+2013-06-12 11:50:17 [INFO] Preparing start region for level 0
+2013-06-12 11:50:18 [INFO] Done (1.058s)! For help, type "help" or "?"
+2013-06-12 23:23:01 [INFO] There are 0/5 players online:
+2013-06-12 23:23:01 [INFO] 
+2013-06-13 20:53:28 [INFO] There are 0/5 players online:
+2013-06-13 20:53:28 [INFO] 
+2013-06-14 00:18:02 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2013-06-14 14:01:23 [INFO] Stopping server
+2013-06-14 14:01:23 [INFO] Saving players
+2013-06-14 14:01:23 [INFO] Closing listening thread
+2013-06-14 14:01:23 [INFO] Saving worlds
+2013-06-14 14:01:31 [INFO] Starting minecraft server version 1.5.2
+2013-06-14 14:01:31 [INFO] Loading properties
+2013-06-14 14:01:31 [INFO] Default game type: CREATIVE
+2013-06-14 14:01:31 [INFO] Generating keypair
+2013-06-14 14:01:31 [INFO] Starting Minecraft server on *:25565
+2013-06-14 14:01:32 [INFO] Preparing level "McSushiworld"
+2013-06-14 14:01:32 [INFO] Preparing start region for level 0
+2013-06-14 14:01:32 [INFO] Done (1.007s)! For help, type "help" or "?"
+2013-06-14 17:29:50 [INFO] Mankai_Sewatery[/184.60.26.185:56726] logged in with entity id 304 at (163.01158281219023, 67.0, 291.02724879937574)
+2013-06-14 17:30:16 [INFO] Mankai_Sewatery lost connection: disconnect.quitting
+2013-06-14 18:04:04 [INFO] There are 0/5 players online:
+2013-06-14 18:04:04 [INFO] 
+2013-06-14 18:04:43 [INFO] Stopping server
+2013-06-14 20:57:31 [INFO] Starting minecraft server version 1.5.2
+2013-06-14 20:57:31 [INFO] Loading properties
+2013-06-14 20:57:31 [INFO] Default game type: CREATIVE
+2013-06-14 20:57:31 [INFO] Generating keypair
+2013-06-14 20:57:32 [INFO] Starting Minecraft server on *:25565
+2013-06-14 20:57:32 [INFO] Preparing level "McSushiworld"
+2013-06-14 20:57:32 [INFO] Preparing start region for level 0
+2013-06-14 20:57:33 [INFO] Done (1.071s)! For help, type "help" or "?"
+2013-06-14 21:35:51 [INFO] There are 0/5 players online:
+2013-06-14 21:35:51 [INFO] 
+2013-06-14 21:35:53 [INFO] Stopping server
+2013-06-14 21:59:56 [INFO] Starting minecraft server version 1.5.2
+2013-06-14 21:59:56 [INFO] Loading properties
+2013-06-14 21:59:56 [INFO] Default game type: CREATIVE
+2013-06-14 21:59:56 [INFO] Generating keypair
+2013-06-14 21:59:56 [INFO] Starting Minecraft server on *:25565
+2013-06-14 21:59:56 [INFO] Preparing level "McSushiworld"
+2013-06-14 21:59:56 [INFO] Preparing start region for level 0
+2013-06-14 21:59:57 [INFO] Done (1.043s)! For help, type "help" or "?"
+2013-06-14 22:07:49 [INFO] There are 0/5 players online:
+2013-06-14 22:07:49 [INFO] 
+2013-06-14 22:07:54 [INFO] Stopping server
+2013-06-14 22:07:54 [INFO] Closing listening thread
+2013-06-14 22:51:44 [INFO] Starting minecraft server version 1.5.2
+2013-06-14 22:51:44 [INFO] Loading properties
+2013-06-14 22:51:44 [INFO] Default game type: CREATIVE
+2013-06-14 22:51:44 [INFO] Generating keypair
+2013-06-14 22:51:44 [INFO] Starting Minecraft server on *:25565
+2013-06-14 22:51:44 [INFO] Preparing level "McSushiworld"
+2013-06-14 22:51:44 [INFO] Preparing start region for level 0
+2013-06-14 22:51:45 [INFO] Done (0.891s)! For help, type "help" or "?"
+2013-06-15 06:35:37 [INFO] There are 0/5 players online:
+2013-06-15 06:35:37 [INFO] 
+2013-06-15 09:52:46 [INFO] There are 0/5 players online:
+2013-06-15 09:52:46 [INFO] 
+2013-06-15 23:18:09 [INFO] Stopping server
+2013-06-16 07:47:51 [INFO] Starting minecraft server version 1.5.2
+2013-06-16 07:47:51 [INFO] Loading properties
+2013-06-16 07:47:51 [INFO] Default game type: CREATIVE
+2013-06-16 07:47:51 [INFO] Generating keypair
+2013-06-16 07:47:52 [INFO] Starting Minecraft server on *:25565
+2013-06-16 07:47:52 [INFO] Preparing level "McSushiworld"
+2013-06-16 07:47:52 [INFO] Preparing start region for level 0
+2013-06-16 07:47:53 [INFO] Done (1.063s)! For help, type "help" or "?"
+2013-06-16 11:10:41 [INFO] There are 0/5 players online:
+2013-06-16 11:10:41 [INFO] 
+2013-06-16 16:22:11 [INFO] aqwre[/207.118.176.226:49234] logged in with entity id 317 at (155.60132337844604, 67.0, 281.31001386363334)
+2013-06-16 16:56:49 [INFO] [aqwre: Set aqwre's spawn point to (149, 65, 267)]
+2013-06-16 16:58:35 [INFO] aqwre lost connection: disconnect.quitting
